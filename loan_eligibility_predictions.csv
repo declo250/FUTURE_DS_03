@@ -1,0 +1,615 @@
+Loan_ID,Loan_Eligibility
+LP001002,Eligible
+LP001003,Eligible
+LP001005,Eligible
+LP001006,Eligible
+LP001008,Eligible
+LP001011,Eligible
+LP001013,Eligible
+LP001014,Not Eligible
+LP001018,Eligible
+LP001020,Eligible
+LP001024,Eligible
+LP001027,Eligible
+LP001028,Eligible
+LP001029,Eligible
+LP001030,Eligible
+LP001032,Eligible
+LP001034,Eligible
+LP001036,Not Eligible
+LP001038,Eligible
+LP001041,Eligible
+LP001043,Not Eligible
+LP001046,Eligible
+LP001047,Not Eligible
+LP001050,Not Eligible
+LP001052,Eligible
+LP001066,Eligible
+LP001068,Eligible
+LP001073,Eligible
+LP001086,Eligible
+LP001087,Eligible
+LP001091,Eligible
+LP001095,Eligible
+LP001097,Eligible
+LP001098,Eligible
+LP001100,Eligible
+LP001106,Eligible
+LP001109,Not Eligible
+LP001112,Eligible
+LP001114,Eligible
+LP001116,Eligible
+LP001119,Eligible
+LP001120,Eligible
+LP001123,Eligible
+LP001131,Eligible
+LP001136,Eligible
+LP001137,Eligible
+LP001138,Eligible
+LP001144,Eligible
+LP001146,Not Eligible
+LP001151,Eligible
+LP001155,Eligible
+LP001157,Eligible
+LP001164,Eligible
+LP001179,Eligible
+LP001186,Not Eligible
+LP001194,Eligible
+LP001195,Eligible
+LP001197,Eligible
+LP001198,Eligible
+LP001199,Eligible
+LP001205,Eligible
+LP001206,Eligible
+LP001207,Not Eligible
+LP001213,Not Eligible
+LP001222,Not Eligible
+LP001225,Eligible
+LP001228,Not Eligible
+LP001233,Eligible
+LP001238,Eligible
+LP001241,Not Eligible
+LP001243,Eligible
+LP001245,Eligible
+LP001248,Eligible
+LP001250,Not Eligible
+LP001253,Eligible
+LP001255,Eligible
+LP001256,Eligible
+LP001259,Eligible
+LP001263,Not Eligible
+LP001264,Eligible
+LP001265,Eligible
+LP001266,Eligible
+LP001267,Eligible
+LP001273,Eligible
+LP001275,Eligible
+LP001279,Eligible
+LP001280,Eligible
+LP001282,Eligible
+LP001289,Eligible
+LP001310,Eligible
+LP001316,Eligible
+LP001318,Eligible
+LP001319,Eligible
+LP001322,Eligible
+LP001325,Eligible
+LP001326,Eligible
+LP001327,Eligible
+LP001333,Eligible
+LP001334,Eligible
+LP001343,Eligible
+LP001345,Eligible
+LP001349,Eligible
+LP001350,Eligible
+LP001356,Eligible
+LP001357,Eligible
+LP001367,Eligible
+LP001369,Eligible
+LP001370,Eligible
+LP001379,Not Eligible
+LP001384,Eligible
+LP001385,Eligible
+LP001387,Eligible
+LP001391,Not Eligible
+LP001392,Eligible
+LP001398,Eligible
+LP001401,Eligible
+LP001404,Eligible
+LP001405,Eligible
+LP001421,Eligible
+LP001422,Eligible
+LP001426,Eligible
+LP001430,Eligible
+LP001431,Not Eligible
+LP001432,Eligible
+LP001439,Eligible
+LP001443,Eligible
+LP001448,Eligible
+LP001449,Eligible
+LP001451,Not Eligible
+LP001465,Eligible
+LP001469,Eligible
+LP001473,Eligible
+LP001478,Eligible
+LP001482,Eligible
+LP001487,Eligible
+LP001488,Eligible
+LP001489,Eligible
+LP001491,Eligible
+LP001492,Not Eligible
+LP001493,Eligible
+LP001497,Eligible
+LP001498,Eligible
+LP001504,Eligible
+LP001507,Eligible
+LP001508,Eligible
+LP001514,Eligible
+LP001516,Eligible
+LP001518,Eligible
+LP001519,Eligible
+LP001520,Eligible
+LP001528,Not Eligible
+LP001529,Eligible
+LP001531,Eligible
+LP001532,Eligible
+LP001535,Eligible
+LP001536,Not Eligible
+LP001541,Eligible
+LP001543,Eligible
+LP001546,Eligible
+LP001552,Eligible
+LP001560,Eligible
+LP001562,Eligible
+LP001565,Not Eligible
+LP001570,Eligible
+LP001572,Eligible
+LP001574,Eligible
+LP001577,Eligible
+LP001578,Eligible
+LP001579,Not Eligible
+LP001580,Eligible
+LP001581,Eligible
+LP001585,Eligible
+LP001586,Eligible
+LP001594,Eligible
+LP001603,Eligible
+LP001606,Eligible
+LP001608,Eligible
+LP001610,Not Eligible
+LP001616,Eligible
+LP001630,Not Eligible
+LP001633,Not Eligible
+LP001634,Eligible
+LP001636,Eligible
+LP001637,Eligible
+LP001639,Eligible
+LP001640,Eligible
+LP001641,Not Eligible
+LP001643,Eligible
+LP001644,Eligible
+LP001647,Eligible
+LP001653,Eligible
+LP001656,Eligible
+LP001657,Eligible
+LP001658,Eligible
+LP001664,Eligible
+LP001665,Eligible
+LP001666,Eligible
+LP001669,Eligible
+LP001671,Eligible
+LP001673,Eligible
+LP001674,Eligible
+LP001677,Not Eligible
+LP001682,Eligible
+LP001688,Eligible
+LP001691,Eligible
+LP001692,Eligible
+LP001693,Eligible
+LP001698,Eligible
+LP001699,Eligible
+LP001702,Eligible
+LP001708,Eligible
+LP001711,Not Eligible
+LP001713,Eligible
+LP001715,Eligible
+LP001716,Eligible
+LP001720,Eligible
+LP001722,Eligible
+LP001726,Eligible
+LP001732,Not Eligible
+LP001734,Eligible
+LP001736,Not Eligible
+LP001743,Eligible
+LP001744,Eligible
+LP001749,Eligible
+LP001750,Eligible
+LP001751,Eligible
+LP001754,Eligible
+LP001758,Eligible
+LP001760,Eligible
+LP001761,Eligible
+LP001765,Eligible
+LP001768,Eligible
+LP001770,Eligible
+LP001776,Eligible
+LP001778,Eligible
+LP001784,Eligible
+LP001786,Eligible
+LP001788,Eligible
+LP001790,Eligible
+LP001792,Eligible
+LP001798,Eligible
+LP001800,Eligible
+LP001806,Eligible
+LP001807,Eligible
+LP001811,Eligible
+LP001813,Eligible
+LP001814,Eligible
+LP001819,Eligible
+LP001824,Eligible
+LP001825,Eligible
+LP001835,Not Eligible
+LP001836,Eligible
+LP001841,Eligible
+LP001843,Eligible
+LP001844,Not Eligible
+LP001846,Eligible
+LP001849,Not Eligible
+LP001854,Eligible
+LP001859,Eligible
+LP001864,Eligible
+LP001865,Eligible
+LP001868,Eligible
+LP001870,Eligible
+LP001871,Eligible
+LP001872,Eligible
+LP001875,Eligible
+LP001877,Eligible
+LP001882,Not Eligible
+LP001883,Eligible
+LP001884,Eligible
+LP001888,Eligible
+LP001891,Eligible
+LP001892,Eligible
+LP001894,Eligible
+LP001896,Eligible
+LP001900,Eligible
+LP001903,Eligible
+LP001904,Eligible
+LP001907,Eligible
+LP001908,Eligible
+LP001910,Not Eligible
+LP001914,Eligible
+LP001915,Eligible
+LP001917,Eligible
+LP001922,Eligible
+LP001924,Eligible
+LP001925,Eligible
+LP001926,Eligible
+LP001931,Eligible
+LP001935,Eligible
+LP001936,Eligible
+LP001938,Not Eligible
+LP001940,Eligible
+LP001945,Not Eligible
+LP001947,Eligible
+LP001949,Eligible
+LP001953,Eligible
+LP001954,Eligible
+LP001955,Eligible
+LP001963,Eligible
+LP001964,Not Eligible
+LP001972,Eligible
+LP001974,Eligible
+LP001977,Eligible
+LP001978,Eligible
+LP001990,Eligible
+LP001993,Eligible
+LP001994,Not Eligible
+LP001996,Eligible
+LP001998,Eligible
+LP002002,Eligible
+LP002004,Eligible
+LP002006,Eligible
+LP002008,Eligible
+LP002024,Eligible
+LP002031,Eligible
+LP002035,Eligible
+LP002036,Eligible
+LP002043,Eligible
+LP002050,Eligible
+LP002051,Eligible
+LP002053,Eligible
+LP002054,Eligible
+LP002055,Eligible
+LP002065,Eligible
+LP002067,Not Eligible
+LP002068,Not Eligible
+LP002082,Eligible
+LP002086,Eligible
+LP002087,Eligible
+LP002097,Eligible
+LP002098,Eligible
+LP002100,Eligible
+LP002101,Eligible
+LP002103,Eligible
+LP002106,Eligible
+LP002110,Eligible
+LP002112,Eligible
+LP002113,Not Eligible
+LP002114,Eligible
+LP002115,Eligible
+LP002116,Eligible
+LP002119,Eligible
+LP002126,Eligible
+LP002128,Eligible
+LP002129,Eligible
+LP002130,Not Eligible
+LP002131,Eligible
+LP002137,Eligible
+LP002138,Eligible
+LP002139,Eligible
+LP002140,Eligible
+LP002141,Eligible
+LP002142,Not Eligible
+LP002143,Eligible
+LP002144,Eligible
+LP002149,Eligible
+LP002151,Eligible
+LP002158,Not Eligible
+LP002160,Eligible
+LP002161,Eligible
+LP002170,Eligible
+LP002175,Eligible
+LP002178,Eligible
+LP002180,Eligible
+LP002181,Eligible
+LP002187,Eligible
+LP002188,Not Eligible
+LP002190,Eligible
+LP002191,Eligible
+LP002194,Eligible
+LP002197,Eligible
+LP002201,Eligible
+LP002205,Not Eligible
+LP002209,Eligible
+LP002211,Eligible
+LP002219,Eligible
+LP002223,Eligible
+LP002224,Eligible
+LP002225,Eligible
+LP002226,Eligible
+LP002229,Eligible
+LP002231,Eligible
+LP002234,Eligible
+LP002236,Eligible
+LP002237,Eligible
+LP002239,Eligible
+LP002243,Not Eligible
+LP002244,Eligible
+LP002250,Eligible
+LP002255,Eligible
+LP002262,Eligible
+LP002263,Eligible
+LP002265,Eligible
+LP002266,Eligible
+LP002272,Eligible
+LP002277,Not Eligible
+LP002281,Eligible
+LP002284,Eligible
+LP002287,Not Eligible
+LP002288,Not Eligible
+LP002296,Eligible
+LP002297,Eligible
+LP002300,Eligible
+LP002301,Eligible
+LP002305,Eligible
+LP002308,Eligible
+LP002314,Eligible
+LP002315,Not Eligible
+LP002317,Not Eligible
+LP002318,Eligible
+LP002319,Eligible
+LP002328,Not Eligible
+LP002332,Eligible
+LP002335,Not Eligible
+LP002337,Eligible
+LP002341,Eligible
+LP002342,Eligible
+LP002345,Eligible
+LP002347,Eligible
+LP002348,Eligible
+LP002357,Not Eligible
+LP002361,Eligible
+LP002362,Not Eligible
+LP002364,Eligible
+LP002366,Eligible
+LP002367,Eligible
+LP002368,Eligible
+LP002369,Eligible
+LP002370,Eligible
+LP002377,Eligible
+LP002379,Not Eligible
+LP002386,Eligible
+LP002387,Eligible
+LP002390,Eligible
+LP002393,Eligible
+LP002398,Eligible
+LP002401,Eligible
+LP002403,Not Eligible
+LP002407,Eligible
+LP002408,Eligible
+LP002409,Eligible
+LP002418,Eligible
+LP002422,Eligible
+LP002424,Eligible
+LP002429,Eligible
+LP002434,Eligible
+LP002435,Eligible
+LP002443,Not Eligible
+LP002444,Eligible
+LP002446,Not Eligible
+LP002447,Eligible
+LP002448,Not Eligible
+LP002449,Not Eligible
+LP002453,Eligible
+LP002455,Eligible
+LP002459,Eligible
+LP002467,Eligible
+LP002472,Eligible
+LP002473,Eligible
+LP002478,Eligible
+LP002484,Eligible
+LP002487,Eligible
+LP002489,Eligible
+LP002493,Not Eligible
+LP002494,Eligible
+LP002500,Not Eligible
+LP002501,Eligible
+LP002502,Eligible
+LP002505,Eligible
+LP002515,Eligible
+LP002517,Not Eligible
+LP002519,Eligible
+LP002522,Eligible
+LP002524,Eligible
+LP002527,Eligible
+LP002529,Eligible
+LP002530,Not Eligible
+LP002531,Eligible
+LP002533,Eligible
+LP002534,Eligible
+LP002536,Eligible
+LP002537,Eligible
+LP002541,Eligible
+LP002543,Eligible
+LP002544,Eligible
+LP002545,Not Eligible
+LP002547,Eligible
+LP002555,Eligible
+LP002556,Eligible
+LP002560,Eligible
+LP002562,Eligible
+LP002571,Eligible
+LP002582,Eligible
+LP002585,Not Eligible
+LP002586,Eligible
+LP002587,Eligible
+LP002588,Eligible
+LP002600,Eligible
+LP002602,Not Eligible
+LP002603,Eligible
+LP002606,Eligible
+LP002615,Eligible
+LP002618,Eligible
+LP002619,Eligible
+LP002622,Eligible
+LP002624,Eligible
+LP002625,Eligible
+LP002626,Eligible
+LP002634,Eligible
+LP002637,Eligible
+LP002640,Eligible
+LP002643,Eligible
+LP002648,Eligible
+LP002652,Eligible
+LP002659,Eligible
+LP002670,Eligible
+LP002682,Not Eligible
+LP002683,Eligible
+LP002684,Eligible
+LP002689,Eligible
+LP002690,Eligible
+LP002692,Eligible
+LP002693,Eligible
+LP002697,Eligible
+LP002699,Eligible
+LP002705,Eligible
+LP002706,Not Eligible
+LP002714,Eligible
+LP002716,Eligible
+LP002717,Eligible
+LP002720,Eligible
+LP002723,Not Eligible
+LP002729,Eligible
+LP002731,Eligible
+LP002732,Eligible
+LP002734,Eligible
+LP002738,Eligible
+LP002739,Eligible
+LP002740,Eligible
+LP002741,Eligible
+LP002743,Not Eligible
+LP002753,Eligible
+LP002755,Eligible
+LP002757,Eligible
+LP002767,Eligible
+LP002768,Eligible
+LP002772,Eligible
+LP002776,Not Eligible
+LP002777,Eligible
+LP002778,Not Eligible
+LP002784,Eligible
+LP002785,Eligible
+LP002788,Not Eligible
+LP002789,Not Eligible
+LP002792,Eligible
+LP002794,Eligible
+LP002795,Eligible
+LP002798,Eligible
+LP002804,Eligible
+LP002807,Eligible
+LP002813,Eligible
+LP002820,Eligible
+LP002821,Eligible
+LP002832,Not Eligible
+LP002833,Eligible
+LP002836,Eligible
+LP002837,Not Eligible
+LP002840,Eligible
+LP002841,Not Eligible
+LP002842,Eligible
+LP002847,Not Eligible
+LP002855,Eligible
+LP002862,Eligible
+LP002863,Eligible
+LP002868,Eligible
+LP002872,Not Eligible
+LP002874,Eligible
+LP002877,Eligible
+LP002888,Eligible
+LP002892,Eligible
+LP002893,Eligible
+LP002894,Eligible
+LP002898,Eligible
+LP002911,Not Eligible
+LP002912,Eligible
+LP002916,Eligible
+LP002917,Eligible
+LP002925,Eligible
+LP002926,Not Eligible
+LP002928,Eligible
+LP002931,Eligible
+LP002933,Eligible
+LP002936,Eligible
+LP002938,Eligible
+LP002940,Eligible
+LP002941,Eligible
+LP002943,Not Eligible
+LP002945,Eligible
+LP002948,Eligible
+LP002949,Eligible
+LP002950,Eligible
+LP002953,Eligible
+LP002958,Eligible
+LP002959,Eligible
+LP002960,Eligible
+LP002961,Eligible
+LP002964,Eligible
+LP002974,Eligible
+LP002978,Eligible
+LP002979,Eligible
+LP002983,Eligible
+LP002984,Eligible
+LP002990,Not Eligible
